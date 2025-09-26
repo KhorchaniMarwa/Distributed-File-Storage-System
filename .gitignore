@@ -1,3 +1,9 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Sensitive keys
+keys.txt
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
