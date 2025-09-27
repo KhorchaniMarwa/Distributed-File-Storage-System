@@ -19,6 +19,7 @@ public class Client {
     public String getPassword(){
           return password;
     }
+    //files getter
     public Files getFile(ArrayList<Files> UserFiles, int index){
 
           try {
